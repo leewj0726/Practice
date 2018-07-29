@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  Student.hpp
 //  Practice
 //
 //  Created by WooJin Lee on 2018. 7. 29..
@@ -7,10 +7,8 @@
 //
 
 #include <iostream>
-#include "Node.h"
 
-int main(int argc, const char * argv[])
+class Student
 {
     
-    return 0;
-}
+};
